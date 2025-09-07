@@ -8,7 +8,7 @@ En Discord-bot för att hantera tickets med formulär, transkriptioner och anvä
 2. Gå till [Railway](https://railway.app).
 3. Skapa ett nytt projekt och välj "Deploy from GitHub repo".
 4. Koppla ditt GitHub-konto och välj detta repo:  
-   https://github.com/bosseeeen/japan
+   https://github.com/bosseeeen/japanpvp
 5. Lägg till en **environment variable** i Railway:
    - `DISCORD_TOKEN` = din Discord bot-token
 6. Klicka på "Deploy".
